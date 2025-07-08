@@ -1,0 +1,519 @@
+Symbol,Company Name,Market Cap Category,Sector
+AAPL,Apple Inc,Large Cap,Technology
+MSFT,Microsoft Corporation,Large Cap,Technology
+GOOGL,Alphabet Inc Class A,Large Cap,Technology
+AMZN,Amazon.com Inc,Large Cap,Consumer Discretionary
+NVDA,NVIDIA Corporation,Large Cap,Technology
+META,Meta Platforms Inc,Large Cap,Communication Services
+TSLA,Tesla Inc,Large Cap,Consumer Discretionary
+BRK.B,Berkshire Hathaway Inc Class B,Large Cap,Financial Services
+UNH,UnitedHealth Group Inc,Large Cap,Healthcare
+JNJ,Johnson & Johnson,Large Cap,Healthcare
+JPM,JPMorgan Chase & Co,Large Cap,Financial Services
+V,Visa Inc,Large Cap,Financial Services
+PG,Procter & Gamble Co,Large Cap,Consumer Staples
+XOM,Exxon Mobil Corporation,Large Cap,Energy
+HD,Home Depot Inc,Large Cap,Consumer Discretionary
+CVX,Chevron Corporation,Large Cap,Energy
+MA,Mastercard Inc,Large Cap,Financial Services
+BAC,Bank of America Corp,Large Cap,Financial Services
+ABBV,AbbVie Inc,Large Cap,Healthcare
+PFE,Pfizer Inc,Large Cap,Healthcare
+AVGO,Broadcom Inc,Large Cap,Technology
+KO,Coca-Cola Co,Large Cap,Consumer Staples
+WMT,Walmart Inc,Large Cap,Consumer Staples
+LLY,Eli Lilly and Co,Large Cap,Healthcare
+COST,Costco Wholesale Corp,Large Cap,Consumer Staples
+PEP,PepsiCo Inc,Large Cap,Consumer Staples
+TMO,Thermo Fisher Scientific Inc,Large Cap,Healthcare
+ADBE,Adobe Inc,Large Cap,Technology
+MRK,Merck & Co Inc,Large Cap,Healthcare
+ABT,Abbott Laboratories,Large Cap,Healthcare
+NFLX,Netflix Inc,Large Cap,Communication Services
+CRM,Salesforce Inc,Large Cap,Technology
+TMUS,T-Mobile US Inc,Large Cap,Communication Services
+WFC,Wells Fargo & Co,Large Cap,Financial Services
+CSCO,Cisco Systems Inc,Large Cap,Technology
+DHR,Danaher Corporation,Large Cap,Healthcare
+VZ,Verizon Communications Inc,Large Cap,Communication Services
+NOW,ServiceNow Inc,Large Cap,Technology
+TXN,Texas Instruments Inc,Large Cap,Technology
+ACN,Accenture PLC,Large Cap,Technology
+CMCSA,Comcast Corp,Large Cap,Communication Services
+ORCL,Oracle Corporation,Large Cap,Technology
+RTX,Raytheon Technologies Corp,Large Cap,Industrials
+INTC,Intel Corporation,Large Cap,Technology
+DIS,Walt Disney Co,Large Cap,Communication Services
+AMD,Advanced Micro Devices Inc,Large Cap,Technology
+NKE,Nike Inc,Large Cap,Consumer Discretionary
+INTU,Intuit Inc,Large Cap,Technology
+QCOM,Qualcomm Inc,Large Cap,Technology
+CAT,Caterpillar Inc,Large Cap,Industrials
+IBM,International Business Machines Corp,Large Cap,Technology
+UPS,United Parcel Service Inc,Large Cap,Industrials
+PM,Philip Morris International Inc,Large Cap,Consumer Staples
+GS,Goldman Sachs Group Inc,Large Cap,Financial Services
+AMGN,Amgen Inc,Large Cap,Healthcare
+HON,Honeywell International Inc,Large Cap,Industrials
+COP,ConocoPhillips,Large Cap,Energy
+SBUX,Starbucks Corp,Large Cap,Consumer Discretionary
+LOW,Lowe's Cos Inc,Large Cap,Consumer Discretionary
+SPGI,S&P Global Inc,Large Cap,Financial Services
+BA,Boeing Co,Large Cap,Industrials
+NEE,NextEra Energy Inc,Large Cap,Utilities
+BLK,BlackRock Inc,Large Cap,Financial Services
+LMT,Lockheed Martin Corp,Large Cap,Industrials
+DE,Deere & Co,Large Cap,Industrials
+MDT,Medtronic PLC,Large Cap,Healthcare
+ELV,Elevance Health Inc,Large Cap,Healthcare
+AXP,American Express Co,Large Cap,Financial Services
+AMAT,Applied Materials Inc,Large Cap,Technology
+SYK,Stryker Corp,Large Cap,Healthcare
+GE,General Electric Co,Large Cap,Industrials
+BKNG,Booking Holdings Inc,Large Cap,Consumer Discretionary
+ADI,Analog Devices Inc,Large Cap,Technology
+GILD,Gilead Sciences Inc,Large Cap,Healthcare
+MCD,McDonald's Corp,Large Cap,Consumer Discretionary
+CVS,CVS Health Corp,Large Cap,Healthcare
+LRCX,Lam Research Corp,Large Cap,Technology
+VRTX,Vertex Pharmaceuticals Inc,Large Cap,Healthcare
+APD,Air Products and Chemicals Inc,Large Cap,Materials
+CI,Cigna Corp,Large Cap,Healthcare
+MO,Altria Group Inc,Large Cap,Consumer Staples
+TJX,TJX Cos Inc,Large Cap,Consumer Discretionary
+MMC,Marsh & McLennan Cos Inc,Large Cap,Financial Services
+SO,Southern Co,Large Cap,Utilities
+ZTS,Zoetis Inc,Large Cap,Healthcare
+NOW,ServiceNow Inc,Large Cap,Technology
+USB,U.S. Bancorp,Large Cap,Financial Services
+FI,Fidelity National Information Services Inc,Large Cap,Technology
+DUK,Duke Energy Corp,Large Cap,Utilities
+BSX,Boston Scientific Corp,Large Cap,Healthcare
+TGT,Target Corp,Large Cap,Consumer Discretionary
+MU,Micron Technology Inc,Large Cap,Technology
+AON,Aon PLC,Large Cap,Financial Services
+REGN,Regeneron Pharmaceuticals Inc,Large Cap,Healthcare
+CL,Colgate-Palmolive Co,Large Cap,Consumer Staples
+SHW,Sherwin-Williams Co,Large Cap,Materials
+ICE,Intercontinental Exchange Inc,Large Cap,Financial Services
+NSC,Norfolk Southern Corp,Large Cap,Industrials
+CME,CME Group Inc,Large Cap,Financial Services
+FCX,Freeport-McMoRan Inc,Large Cap,Materials
+HUM,Humana Inc,Large Cap,Healthcare
+PNC,PNC Financial Services Group Inc,Large Cap,Financial Services
+EQIX,Equinix Inc,Large Cap,Real Estate
+KLAC,KLA Corp,Large Cap,Technology
+APH,Amphenol Corp,Large Cap,Technology
+EMR,Emerson Electric Co,Large Cap,Industrials
+MCO,Moody's Corp,Large Cap,Financial Services
+NUE,Nucor Corp,Large Cap,Materials
+SNPS,Synopsys Inc,Large Cap,Technology
+SLB,Schlumberger NV,Large Cap,Energy
+MSI,Motorola Solutions Inc,Large Cap,Technology
+PSA,Public Storage,Large Cap,Real Estate
+ITW,Illinois Tool Works Inc,Large Cap,Industrials
+GM,General Motors Co,Large Cap,Consumer Discretionary
+TFC,Truist Financial Corp,Large Cap,Financial Services
+DG,Dollar General Corp,Large Cap,Consumer Discretionary
+EOG,EOG Resources Inc,Large Cap,Energy
+CARR,Carrier Global Corp,Large Cap,Industrials
+JCI,Johnson Controls International PLC,Large Cap,Industrials
+ETN,Eaton Corp PLC,Large Cap,Industrials
+WM,Waste Management Inc,Large Cap,Industrials
+PLD,Prologis Inc,Large Cap,Real Estate
+CDNS,Cadence Design Systems Inc,Large Cap,Technology
+ADP,Automatic Data Processing Inc,Large Cap,Technology
+GD,General Dynamics Corp,Large Cap,Industrials
+ROP,Roper Technologies Inc,Large Cap,Technology
+WELL,Welltower Inc,Large Cap,Real Estate
+CSX,CSX Corp,Large Cap,Industrials
+ECL,Ecolab Inc,Large Cap,Materials
+PSX,Phillips 66,Large Cap,Energy
+CMG,Chipotle Mexican Grill Inc,Large Cap,Consumer Discretionary
+ORLY,O'Reilly Automotive Inc,Large Cap,Consumer Discretionary
+SPG,Simon Property Group Inc,Large Cap,Real Estate
+MMM,3M Co,Large Cap,Industrials
+MCK,McKesson Corp,Large Cap,Healthcare
+OXY,Occidental Petroleum Corp,Large Cap,Energy
+BDX,Becton Dickinson and Co,Large Cap,Healthcare
+TEL,TE Connectivity Ltd,Large Cap,Technology
+AFL,Aflac Inc,Large Cap,Financial Services
+AEP,American Electric Power Co Inc,Large Cap,Utilities
+PAYX,Paychex Inc,Large Cap,Technology
+ROST,Ross Stores Inc,Large Cap,Consumer Discretionary
+SRE,Sempra Energy,Large Cap,Utilities
+CTSH,Cognizant Technology Solutions Corp,Large Cap,Technology
+COF,Capital One Financial Corp,Large Cap,Financial Services
+FAST,Fastenal Co,Large Cap,Industrials
+KMB,Kimberly-Clark Corp,Large Cap,Consumer Staples
+EW,Edwards Lifesciences Corp,Large Cap,Healthcare
+O,Realty Income Corp,Large Cap,Real Estate
+MCHP,Microchip Technology Inc,Large Cap,Technology
+GWW,W.W. Grainger Inc,Large Cap,Industrials
+IDXX,IDEXX Laboratories Inc,Large Cap,Healthcare
+EXC,Exelon Corp,Large Cap,Utilities
+A,Agilent Technologies Inc,Large Cap,Healthcare
+CTAS,Cintas Corp,Large Cap,Industrials
+DD,DuPont de Nemours Inc,Large Cap,Materials
+ODFL,Old Dominion Freight Line Inc,Large Cap,Industrials
+YUM,Yum! Brands Inc,Large Cap,Consumer Discretionary
+VRSK,Verisk Analytics Inc,Large Cap,Industrials
+AZO,AutoZone Inc,Large Cap,Consumer Discretionary
+KHC,Kraft Heinz Co,Large Cap,Consumer Staples
+WBA,Walgreens Boots Alliance Inc,Large Cap,Consumer Staples
+EXR,Extended Stay America Inc,Large Cap,Real Estate
+PCAR,PACCAR Inc,Large Cap,Industrials
+CTVA,Corteva Inc,Large Cap,Materials
+DLTR,Dollar Tree Inc,Large Cap,Consumer Discretionary
+MKTX,MarketAxess Holdings Inc,Large Cap,Financial Services
+VICI,VICI Properties Inc,Large Cap,Real Estate
+FTV,Fortive Corp,Large Cap,Technology
+XEL,Xcel Energy Inc,Large Cap,Utilities
+HCA,HCA Healthcare Inc,Large Cap,Healthcare
+CPRT,Copart Inc,Large Cap,Industrials
+IQV,IQVIA Holdings Inc,Large Cap,Healthcare
+KEYS,Keysight Technologies Inc,Large Cap,Technology
+EA,Electronic Arts Inc,Large Cap,Communication Services
+PPG,PPG Industries Inc,Large Cap,Materials
+ROK,Rockwell Automation Inc,Large Cap,Industrials
+WMB,Williams Cos Inc,Large Cap,Energy
+MNST,Monster Beverage Corp,Large Cap,Consumer Staples
+FANG,Diamondback Energy Inc,Large Cap,Energy
+FTNT,Fortinet Inc,Large Cap,Technology
+KMI,Kinder Morgan Inc,Large Cap,Energy
+ES,Eversource Energy,Large Cap,Utilities
+IT,Gartner Inc,Large Cap,Technology
+AMT,American Tower Corp,Large Cap,Real Estate
+BK,Bank of New York Mellon Corp,Large Cap,Financial Services
+URI,United Rentals Inc,Large Cap,Industrials
+CBRE,CBRE Group Inc,Large Cap,Real Estate
+RSG,Republic Services Inc,Large Cap,Industrials
+HPQ,HP Inc,Large Cap,Technology
+DOW,Dow Inc,Large Cap,Materials
+EBAY,eBay Inc,Large Cap,Consumer Discretionary
+MPWR,Monolithic Power Systems Inc,Large Cap,Technology
+ALL,Allstate Corp,Large Cap,Financial Services
+BIIB,Biogen Inc,Large Cap,Healthcare
+DXCM,DexCom Inc,Large Cap,Healthcare
+EIX,Edison International,Large Cap,Utilities
+HLT,Hilton Worldwide Holdings Inc,Large Cap,Consumer Discretionary
+LHX,L3Harris Technologies Inc,Large Cap,Industrials
+RMD,ResMed Inc,Large Cap,Healthcare
+ALGN,Align Technology Inc,Large Cap,Healthcare
+AVB,AvalonBay Communities Inc,Large Cap,Real Estate
+MAR,Marriott International Inc,Large Cap,Consumer Discretionary
+ANSS,ANSYS Inc,Large Cap,Technology
+STZ,Constellation Brands Inc,Large Cap,Consumer Staples
+DTE,DTE Energy Co,Large Cap,Utilities
+ILMN,Illumina Inc,Large Cap,Healthcare
+PWR,Quanta Services Inc,Large Cap,Industrials
+AWK,American Water Works Co Inc,Large Cap,Utilities
+PEG,Public Service Enterprise Group Inc,Large Cap,Utilities
+LIN,Linde PLC,Large Cap,Materials
+IR,Ingersoll Rand Inc,Large Cap,Industrials
+ZBH,Zimmer Biomet Holdings Inc,Large Cap,Healthcare
+KR,Kroger Co,Large Cap,Consumer Staples
+HSY,Hershey Co,Large Cap,Consumer Staples
+ED,Consolidated Edison Inc,Large Cap,Utilities
+GIS,General Mills Inc,Large Cap,Consumer Staples
+WEC,WEC Energy Group Inc,Large Cap,Utilities
+PPL,PPL Corp,Large Cap,Utilities
+CLX,Clorox Co,Large Cap,Consumer Staples
+EXPD,Expeditors International of Washington Inc,Large Cap,Industrials
+VLO,Valero Energy Corp,Large Cap,Energy
+SBAC,SBA Communications Corp,Large Cap,Real Estate
+ARE,Alexandria Real Estate Equities Inc,Large Cap,Real Estate
+AME,AMETEK Inc,Large Cap,Industrials
+MTB,M&T Bank Corp,Large Cap,Financial Services
+F,Ford Motor Co,Large Cap,Consumer Discretionary
+TSN,Tyson Foods Inc,Large Cap,Consumer Staples
+LYB,LyondellBasell Industries NV,Large Cap,Materials
+TTWO,Take-Two Interactive Software Inc,Large Cap,Communication Services
+WAT,Waters Corp,Large Cap,Healthcare
+CHD,Church & Dwight Co Inc,Large Cap,Consumer Staples
+MLM,Martin Marietta Materials Inc,Large Cap,Materials
+FITB,Fifth Third Bancorp,Large Cap,Financial Services
+ENPH,Enphase Energy Inc,Large Cap,Technology
+STT,State Street Corp,Large Cap,Financial Services
+NTRS,Northern Trust Corp,Large Cap,Financial Services
+RF,Regions Financial Corp,Large Cap,Financial Services
+K,Kellogg Co,Large Cap,Consumer Staples
+FE,FirstEnergy Corp,Large Cap,Utilities
+CAH,Cardinal Health Inc,Large Cap,Healthcare
+CMS,CMS Energy Corp,Large Cap,Utilities
+HBAN,Huntington Bancshares Inc,Large Cap,Financial Services
+LUV,Southwest Airlines Co,Large Cap,Industrials
+FISV,Fiserv Inc,Large Cap,Technology
+WRB,W.R. Berkley Corp,Large Cap,Financial Services
+TRV,Travelers Cos Inc,Large Cap,Financial Services
+HOLX,Hologic Inc,Large Cap,Healthcare
+CINF,Cincinnati Financial Corp,Large Cap,Financial Services
+ATO,Atmos Energy Corp,Large Cap,Utilities
+PEAK,Healthpeak Properties Inc,Large Cap,Real Estate
+DRI,Darden Restaurants Inc,Large Cap,Consumer Discretionary
+PKI,PerkinElmer Inc,Large Cap,Healthcare
+FRT,Federal Realty Investment Trust,Large Cap,Real Estate
+BRO,Brown & Brown Inc,Large Cap,Financial Services
+SWKS,Skyworks Solutions Inc,Large Cap,Technology
+IEX,IDEX Corp,Large Cap,Industrials
+SYY,Sysco Corp,Large Cap,Consumer Staples
+PAYC,Paycom Software Inc,Large Cap,Technology
+TECH,Bio-Techne Corp,Large Cap,Healthcare
+MTD,Mettler-Toledo International Inc,Large Cap,Healthcare
+CAG,Conagra Brands Inc,Large Cap,Consumer Staples
+WAB,Westinghouse Air Brake Technologies Corp,Large Cap,Industrials
+NTAP,NetApp Inc,Large Cap,Technology
+AEE,Ameren Corp,Large Cap,Utilities
+ZBRA,Zebra Technologies Corp,Large Cap,Technology
+VRSN,VeriSign Inc,Large Cap,Technology
+LDOS,Leidos Holdings Inc,Large Cap,Technology
+TYL,Tyler Technologies Inc,Large Cap,Technology
+TDY,Teledyne Technologies Inc,Large Cap,Technology
+CERN,Cerner Corp,Large Cap,Healthcare
+MAA,Mid-America Apartment Communities Inc,Large Cap,Real Estate
+UDR,UDR Inc,Large Cap,Real Estate
+ESS,Essex Property Trust Inc,Large Cap,Real Estate
+EQR,Equity Residential,Large Cap,Real Estate
+CPT,Camden Property Trust,Large Cap,Real Estate
+HST,Host Hotels & Resorts Inc,Large Cap,Real Estate
+PXD,Pioneer Natural Resources Co,Large Cap,Energy
+MPC,Marathon Petroleum Corp,Large Cap,Energy
+VTR,Ventas Inc,Large Cap,Real Estate
+HII,Huntington Ingalls Industries Inc,Large Cap,Industrials
+COO,Cooper Cos Inc,Large Cap,Healthcare
+ABMD,ABIOMED Inc,Large Cap,Healthcare
+DGX,Quest Diagnostics Inc,Large Cap,Healthcare
+LH,Laboratory Corp of America Holdings,Large Cap,Healthcare
+ULTA,Ulta Beauty Inc,Large Cap,Consumer Discretionary
+POOL,Pool Corp,Large Cap,Consumer Discretionary
+PKG,Packaging Corp of America,Large Cap,Materials
+EMN,Eastman Chemical Co,Large Cap,Materials
+VMC,Vulcan Materials Co,Large Cap,Materials
+CF,CF Industries Holdings Inc,Large Cap,Materials
+FMC,FMC Corp,Large Cap,Materials
+MOS,Mosaic Co,Large Cap,Materials
+ALB,Albemarle Corp,Large Cap,Materials
+IFF,International Flavors & Fragrances Inc,Large Cap,Materials
+LYV,Live Nation Entertainment Inc,Large Cap,Communication Services
+CNP,CenterPoint Energy Inc,Large Cap,Utilities
+NI,NiSource Inc,Large Cap,Utilities
+AES,AES Corp,Large Cap,Utilities
+CEG,Constellation Energy Corp,Large Cap,Utilities
+WTRG,Essential Utilities Inc,Large Cap,Utilities
+CCI,Crown Castle International Corp,Large Cap,Real Estate
+DLR,Digital Realty Trust Inc,Large Cap,Real Estate
+AIV,Apartment Investment and Management Co,Large Cap,Real Estate
+BXP,Boston Properties Inc,Large Cap,Real Estate
+KIM,Kimco Realty Corp,Large Cap,Real Estate
+REG,Regency Centers Corp,Large Cap,Real Estate
+UHS,Universal Health Services Inc,Large Cap,Healthcare
+INCY,Incyte Corp,Large Cap,Healthcare
+BMRN,BioMarin Pharmaceutical Inc,Large Cap,Healthcare
+VTRS,Viatris Inc,Large Cap,Healthcare
+DVN,Devon Energy Corp,Large Cap,Energy
+APA,APA Corp,Large Cap,Energy
+MRO,Marathon Oil Corp,Large Cap,Energy
+HAL,Halliburton Co,Large Cap,Energy
+BKR,Baker Hughes Co,Large Cap,Energy
+NOV,National Oilwell Varco Inc,Large Cap,Energy
+RIG,Transocean Ltd,Large Cap,Energy
+NBR,Nabors Industries Ltd,Large Cap,Energy
+HP,Helmerich & Payne Inc,Large Cap,Energy
+PBF,PBF Energy Inc,Large Cap,Energy
+HFC,HollyFrontier Corp,Large Cap,Energy
+ANDV,Andeavor,Large Cap,Energy
+WMK,Weis Markets Inc,Mid Cap,Consumer Staples
+ACI,Albertsons Cos Inc,Mid Cap,Consumer Staples
+BGS,B&G Foods Inc,Mid Cap,Consumer Staples
+CPB,Campbell Soup Co,Mid Cap,Consumer Staples
+HRL,Hormel Foods Corp,Mid Cap,Consumer Staples
+SJM,J.M. Smucker Co,Mid Cap,Consumer Staples
+MKC,McCormick & Co Inc,Mid Cap,Consumer Staples
+TAP,Molson Coors Beverage Co,Mid Cap,Consumer Staples
+BF.B,Brown-Forman Corp,Mid Cap,Consumer Staples
+DEO,Diageo PLC,Mid Cap,Consumer Staples
+SAM,Boston Beer Co Inc,Mid Cap,Consumer Staples
+COKE,Coca-Cola Consolidated Inc,Mid Cap,Consumer Staples
+KDP,Keurig Dr Pepper Inc,Mid Cap,Consumer Staples
+WBA,Walgreens Boots Alliance Inc,Mid Cap,Consumer Staples
+CVS,CVS Health Corp,Mid Cap,Healthcare
+RITE,Rite Aid Corp,Mid Cap,Consumer Staples
+RAD,Rite Aid Corp,Mid Cap,Consumer Staples
+FDX,FedEx Corp,Mid Cap,Industrials
+UPS,United Parcel Service Inc,Mid Cap,Industrials
+XPO,XPO Logistics Inc,Mid Cap,Industrials
+CHRW,C.H. Robinson Worldwide Inc,Mid Cap,Industrials
+EXPD,Expeditors International of Washington Inc,Mid Cap,Industrials
+JBHT,J.B. Hunt Transport Services Inc,Mid Cap,Industrials
+KNX,Knight-Swift Transportation Holdings Inc,Mid Cap,Industrials
+ODFL,Old Dominion Freight Line Inc,Mid Cap,Industrials
+SAIA,Saia Inc,Mid Cap,Industrials
+ARCB,ArcBest Corp,Mid Cap,Industrials
+YELL,Yellow Corp,Mid Cap,Industrials
+CVTI,Covenant Logistics Group Inc,Mid Cap,Industrials
+HTLD,Heartland Express Inc,Mid Cap,Industrials
+MATX,Matson Inc,Mid Cap,Industrials
+ALEX,Alexander & Baldwin Inc,Mid Cap,Industrials
+KEX,Kirby Corp,Mid Cap,Industrials
+INSW,International Seaways Inc,Mid Cap,Industrials
+STNG,Scorpio Tankers Inc,Mid Cap,Industrials
+FRO,Frontline Ltd,Mid Cap,Industrials
+TNK,Teekay Tankers Ltd,Mid Cap,Industrials
+NAT,Nordic American Tankers Ltd,Mid Cap,Industrials
+EURN,Euronav NV,Mid Cap,Industrials
+DHT,DHT Holdings Inc,Mid Cap,Industrials
+FLNG,Flex LNG Ltd,Mid Cap,Industrials
+GMLP,Golar LNG Partners LP,Mid Cap,Industrials
+LPG,Dorian LPG Ltd,Mid Cap,Industrials
+GLOP,GasLog Partners LP,Mid Cap,Industrials
+GLOG,GasLog Ltd,Mid Cap,Industrials
+CQP,Cheniere Energy Partners LP,Mid Cap,Energy
+KMI,Kinder Morgan Inc,Mid Cap,Energy
+EPD,Enterprise Products Partners LP,Mid Cap,Energy
+ET,Energy Transfer LP,Mid Cap,Energy
+MPLX,MPLX LP,Mid Cap,Energy
+PAA,Plains All American Pipeline LP,Mid Cap,Energy
+PAGP,Plains GP Holdings LP,Mid Cap,Energy
+PSXP,Phillips 66 Partners LP,Mid Cap,Energy
+VLP,Valero Energy Partners LP,Mid Cap,Energy
+WES,Western Midstream Partners LP,Mid Cap,Energy
+AM,Antero Midstream Corp,Mid Cap,Energy
+OKE,ONEOK Inc,Mid Cap,Energy
+WMB,Williams Cos Inc,Mid Cap,Energy
+TGE,Tallgrass Energy Corp,Mid Cap,Energy
+HESM,Hess Midstream LP,Mid Cap,Energy
+DCP,DCP Midstream LP,Mid Cap,Energy
+CEQP,Crestwood Equity Partners LP,Mid Cap,Energy
+ENLC,EnLink Midstream LLC,Mid Cap,Energy
+NGL,NGL Energy Partners LP,Mid Cap,Energy
+USAC,USA Compression Partners LP,Mid Cap,Energy
+GEL,Genesis Energy LP,Mid Cap,Energy
+NS,NuStar Energy LP,Mid Cap,Energy
+CAPL,CrossAmerica Partners LP,Mid Cap,Energy
+PBFX,PBF Logistics LP,Mid Cap,Energy
+DMLP,Dorchester Minerals LP,Mid Cap,Energy
+SD,SandRidge Energy Inc,Mid Cap,Energy
+GPOR,Gulfport Energy Corp,Mid Cap,Energy
+RRC,Range Resources Corp,Mid Cap,Energy
+CNX,CNX Resources Corp,Mid Cap,Energy
+AR,Antero Resources Corp,Mid Cap,Energy
+EQT,EQT Corp,Mid Cap,Energy
+SWN,Southwestern Energy Co,Mid Cap,Energy
+CHK,Chesapeake Energy Corp,Mid Cap,Energy
+RICE,Rice Energy Inc,Mid Cap,Energy
+ECA,Encana Corp,Mid Cap,Energy
+COG,Cabot Oil & Gas Corp,Mid Cap,Energy
+NFG,National Fuel Gas Co,Mid Cap,Energy
+KNTK,Kinetik Holdings Inc,Mid Cap,Energy
+GTE,Gran Tierra Energy Inc,Mid Cap,Energy
+ERF,Enerplus Corp,Mid Cap,Energy
+CRC,California Resources Corp,Mid Cap,Energy
+WLL,Whiting Petroleum Corp,Mid Cap,Energy
+CLR,Continental Resources Inc,Mid Cap,Energy
+OAS,Oasis Petroleum Inc,Mid Cap,Energy
+CXO,Concho Resources Inc,Mid Cap,Energy
+PE,Parsley Energy Inc,Mid Cap,Energy
+MTDR,Matador Resources Co,Mid Cap,Energy
+WPX,WPX Energy Inc,Mid Cap,Energy
+RSP,RSP Permian Inc,Mid Cap,Energy
+RSPP,RSP Permian Inc,Mid Cap,Energy
+LGCY,Legacy Reserves Inc,Mid Cap,Energy
+PDCE,PDC Energy Inc,Mid Cap,Energy
+REI,Ring Energy Inc,Mid Cap,Energy
+CRZO,Carrizo Oil & Gas Inc,Mid Cap,Energy
+WPRT,Westport Fuel Systems Inc,Mid Cap,Energy
+CLNE,Clean Energy Fuels Corp,Mid Cap,Energy
+BWEN,Broadwind Energy Inc,Mid Cap,Energy
+AMRC,Ameresco Inc,Mid Cap,Energy
+OPTT,Ocean Power Technologies Inc,Mid Cap,Energy
+WFRD,Weatherford International PLC,Mid Cap,Energy
+RES,RPC Inc,Mid Cap,Energy
+PTEN,Patterson-UTI Energy Inc,Mid Cap,Energy
+LBRT,Liberty Oilfield Services Inc,Mid Cap,Energy
+PUMP,ProPetro Holding Corp,Mid Cap,Energy
+SLCA,U.S. Silica Holdings Inc,Mid Cap,Energy
+SAND,Sandstorm Gold Ltd,Mid Cap,Materials
+GOLD,Barrick Gold Corp,Mid Cap,Materials
+NEM,Newmont Corp,Mid Cap,Materials
+KGC,Kinross Gold Corp,Mid Cap,Materials
+AEM,Agnico Eagle Mines Ltd,Mid Cap,Materials
+AU,AngloGold Ashanti Ltd,Mid Cap,Materials
+HMY,Harmony Gold Mining Co Ltd,Mid Cap,Materials
+SBSW,Sibanye Stillwater Ltd,Mid Cap,Materials
+WPM,Wheaton Precious Metals Corp,Mid Cap,Materials
+FNV,Franco-Nevada Corp,Mid Cap,Materials
+RGLD,Royal Gold Inc,Mid Cap,Materials
+SSRM,SSR Mining Inc,Mid Cap,Materials
+EGO,Eldorado Gold Corp,Mid Cap,Materials
+IAG,IAMGOLD Corp,Mid Cap,Materials
+CDE,Coeur Mining Inc,Mid Cap,Materials
+HL,Hecla Mining Co,Mid Cap,Materials
+PAAS,Pan American Silver Corp,Mid Cap,Materials
+AG,First Majestic Silver Corp,Mid Cap,Materials
+FSM,Fortuna Silver Mines Inc,Mid Cap,Materials
+EXK,Endeavour Silver Corp,Mid Cap,Materials
+SLW,Silver Wheaton Corp,Mid Cap,Materials
+MAG,MAG Silver Corp,Mid Cap,Materials
+GPL,Great Panther Mining Ltd,Mid Cap,Materials
+SVM,Silvercorp Metals Inc,Mid Cap,Materials
+USAS,Americas Silver Corp,Mid Cap,Materials
+THM,International Tower Hill Mines Ltd,Mid Cap,Materials
+NGD,New Gold Inc,Mid Cap,Materials
+GORO,Gold Resource Corp,Mid Cap,Materials
+MIDAS,Midas Gold Corp,Mid Cap,Materials
+SIL,Global X Silver Miners ETF,Mid Cap,Materials
+GDX,VanEck Vectors Gold Miners ETF,Mid Cap,Materials
+GDXJ,VanEck Vectors Junior Gold Miners ETF,Mid Cap,Materials
+RING,iShares MSCI Global Gold Miners ETF,Mid Cap,Materials
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Mid Cap,Materials
+REMX,VanEck Vectors Rare Earth Strategic Metals ETF,Mid Cap,Materials
+COPX,Global X Copper Miners ETF,Mid Cap,Materials
+LIT,Global X Lithium & Battery Tech ETF,Mid Cap,Materials
+URA,Global X Uranium ETF,Mid Cap,Materials
+SILJ,ETFMG Prime Junior Silver ETF,Mid Cap,Materials
+GOEX,Global X Gold Explorers ETF,Mid Cap,Materials
+SLVP,iShares MSCI Global Silver Miners ETF,Mid Cap,Materials
+URNM,North Shore Global Uranium Mining ETF,Mid Cap,Materials
+GLDM,SPDR Gold MiniShares Trust,Mid Cap,Materials
+IAU,iShares Gold Trust,Mid Cap,Materials
+GLD,SPDR Gold Shares,Mid Cap,Materials
+SLV,iShares Silver Trust,Mid Cap,Materials
+PPLT,Aberdeen Standard Physical Platinum Shares ETF,Mid Cap,Materials
+PALL,Aberdeen Standard Physical Palladium Shares ETF,Mid Cap,Materials
+FCX,Freeport-McMoRan Inc,Mid Cap,Materials
+VALE,Vale SA,Mid Cap,Materials
+RIO,Rio Tinto PLC,Mid Cap,Materials
+BHP,BHP Group Ltd,Mid Cap,Materials
+SCCO,Southern Copper Corp,Mid Cap,Materials
+AA,Alcoa Corp,Mid Cap,Materials
+X,United States Steel Corp,Mid Cap,Materials
+CLF,Cleveland-Cliffs Inc,Mid Cap,Materials
+MT,ArcelorMittal,Mid Cap,Materials
+STLD,Steel Dynamics Inc,Mid Cap,Materials
+CMC,Commercial Metals Co,Mid Cap,Materials
+RS,Reliance Steel & Aluminum Co,Mid Cap,Materials
+ATI,Allegheny Technologies Inc,Mid Cap,Materials
+CRS,Carpenter Technology Corp,Mid Cap,Materials
+ZEUS,Olympic Steel Inc,Mid Cap,Materials
+SXC,SunCoke Energy Inc,Mid Cap,Materials
+WOR,Worthington Industries Inc,Mid Cap,Materials
+HAYN,Haynes International Inc,Mid Cap,Materials
+UEC,Uranium Energy Corp,Mid Cap,Materials
+CCJ,Cameco Corp,Mid Cap,Materials
+DNN,Denison Mines Corp,Mid Cap,Materials
+NXE,NexGen Energy Ltd,Mid Cap,Materials
+UUUU,Energy Fuels Inc,Mid Cap,Materials
+URG,Ur-Energy Inc,Mid Cap,Materials
+LEU,Centrus Energy Corp,Mid Cap,Materials
+LTBR,Lightbridge Corp,Mid Cap,Materials
+WSTG,Wayside Technology Group Inc,Mid Cap,Technology
+SCSC,ScanSource Inc,Mid Cap,Technology
+SYKE,Sykes Enterprises Inc,Mid Cap,Technology
+SAIC,Science Applications International Corp,Mid Cap,Technology
+CACI,CACI International Inc,Mid Cap,Technology
+BAH,Booz Allen Hamilton Holding Corp,Mid Cap,Technology
+CSRA,Computer Sciences Corp,Mid Cap,Technology
+DXC,DXC Technology Co,Mid Cap,Technology
+HPE,Hewlett Packard Enterprise Co,Mid Cap,Technology
+WDC,Western Digital Corp,Mid Cap,Technology
+STX,Seagate Technology Holdings PLC,Mid Cap,Technology
